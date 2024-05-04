@@ -8,9 +8,9 @@
     - (xss)attackk is web security vulnerability
     - work to web vunlearbility site and return malicious Javascript to user and when the code excute inside vitume the attacker fully compromise with the application
   - Type of (XSS)
-     - reflected cross-site-scripting (xss)
-     - Stored cross-site-scripting (xss)
-     - Dom-based cross-site-scripting (xss)
+     - Reflected cross-site scripting (xss)
+     - Stored cross-site scripting (xss)
+     - Dom-based cross-site scripting (xss)
   - (SQLi) SQL injection
 - Dos / DDOS attack
   - Danial of service
