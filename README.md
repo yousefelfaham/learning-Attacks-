@@ -9,8 +9,8 @@
     - (xss)attackk is web security vulnerability and can be used to steal cookies and steal session token .
     - work to web vunlearbility site and return malicious Javascript to user and when the code excute inside vitume the attacker fully compromise with the application
   - Type of (XSS)
-     - Reflected cross-site scripting (xss) or non persistent 
-     - Stored cross-site scripting (xss) or persistent
+     - Reflected cross-site scripting (xss) or (non persistent)
+     - Stored cross-site scripting (xss) or (persistent)
      - Dom-based cross-site scripting (xss)
   - (SQLi) SQL injection
 - Dos / DDOS attack
